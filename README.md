@@ -1,26 +1,59 @@
-# Red3lay API
+# carRentalAPI
+
+https://carrentalapi1.herokuapp.com/docs/static/index.html
 
 ## Features
-1. Login
-2. Create contact
-3. Update contact
-4. Delete contact
-5. View all contacts
-6. Search contacts by name
+
+carete user
+
+Login
+
+View all available cars
+
+payment
+
+viewing all payments
+
+car reviwe
+
+viewing all car reviews
+
+create car
+
+delete car
+
+update car
+
+adding customers
+
+removing customers
+
+update customers
+
+show which car the customer has
+
+viewing the most expensivr available car
+
+viewing the cheapest available car
+
+creating the rental order
+
+updating the rental order
+
+deleting the rental order
 
 ## Stack
-1. Runtime Environment: `Node.js`
-2. Language: `TypeScript`
-3. Web Server: `Fastify`
-4. ORM: `Prisma`
-5. DB: `Postgres`
 
-## Requirements
-1. At least 10 endpoints
-2. Authentication (JWT)
-3. Validation
-4. No Supabase
-5. Deployed to AWS or Heroku
+Runtime Environment: Node.js
 
-## Deadline
-Wednesday 29 June
+Language: typescript
+
+Web Server: fastify
+
+ORM: prisma
+
+DB: MongoDB
+
+# Schema Diagram
+
+![schemaCar](https://user-images.githubusercontent.com/96131525/174675938-4d01daa7-6a36-407a-8a52-5f66a7094295.jpeg)
