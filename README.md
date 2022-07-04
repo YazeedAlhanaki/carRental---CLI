@@ -1,4 +1,4 @@
-# carRentalAPI
+# carRental CLI
 
 https://carrentalapi1.herokuapp.com/docs/static/index.html
 
